@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Contracts", "Ele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Tests", "ElevenNote.Tests\ElevenNote.Tests.csproj", "{67543CA1-1196-4A0F-9645-51776F8EE82E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.WebMVC", "ElevenNote.MVC\ElevenNote.WebMVC.csproj", "{EA3B72DB-7A60-4F01-B504-72AB2256F927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.MVC", "ElevenNote.MVC\ElevenNote.MVC.csproj", "{EA3B72DB-7A60-4F01-B504-72AB2256F927}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
