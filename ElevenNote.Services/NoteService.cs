@@ -33,6 +33,7 @@ namespace ElevenNote.Services
                 return ctx.SaveChanges() == 1;
             }
 
+        }
             public IEnumerable<NoteListItem> GetNotes()
             {
                 using (var ctx = new ApplicationDbContext())
@@ -41,6 +42,6 @@ namespace ElevenNote.Services
                     return query.ToArray();
                 }
             }
-        }
+
     }
 }
